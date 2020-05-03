@@ -26,6 +26,9 @@ dependencies:
   dio:
   native_pdf_renderer: any
   extended_image: ^0.7.2
+  signature_pad_widget: ^2.0.1
+  native_pdf_view: ^3.1.0
+  shared_preferences: ^0.5.7
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
