@@ -24,7 +24,7 @@ dependencies:
   image_gallery_saver: ^1.2.2
   permission_handler: ^4.2.0+hotfix.3
   dio:
-  native_pdf_renderer: any
+  pdf_render: ^0.57.2
   extended_image: ^0.7.2
   signature_pad_widget: ^2.0.1
   native_pdf_view: ^3.1.0
